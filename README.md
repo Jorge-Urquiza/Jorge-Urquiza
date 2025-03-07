@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Jorge Urquiza! 👋</h1>
 
 <p align="center">
-🚀 **Software Engineer** | 💻 **Full-Stack Developer**</p>
+🚀 **Software Engineer** | 💻 **Full-Stack Developer** | 🎓 **Technical Lead**</p>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjN3ZjQ0YmswYW9rOWJtOW9jaHh4ZnZraTZpZXc2YzMyZ3M2emwzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300px">
